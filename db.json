@@ -1,3 +1,36 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome":"Mtec-PI Desenvolvimento de Sistemas",
+            "disciplinas":["WEB III, PAM II, BD"],
+            "carga horária": 1200
+        },
+        {
+            "id":2,
+            "nome":"Técnico em informática",
+            "disciplinas":["WEB III, PAM II, BD"],
+            "carga horária": 3 "semestres"
+        },
+        {
+            "id":3,
+            "nome":"M-tec técnico em informática",
+            "disciplinas":["WEB III, PAM II, BD"],
+            "carga horária": 3 "anos"
+        },
+        {
+            "id":4,
+            "nome":"M-tec técnico em informática para Internet",
+            "disciplinas":["WEB III, PAM II, BD"],
+            "carga horária": 3 "anos"
+        },
+    ]
+}
+
+
+
+
+
 
 {
     "cursos": [
